@@ -3,9 +3,9 @@ title: harrison
 templateKey: 'about-page'
 path: /harrison
 authorName: Harrison McGuire
-authorImage: https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/67445052_1338941819593253_2420063833339985920_n.jpg?_nc_cat=111&_nc_oc=AQnV2Y_cc3oDqqfR9urtcnSqHl2f122zmnesCrJDyQTLV95I5H5ZJ-ji3ZjysakkVPDREkesMrC4VdqvMR8xSFdp&_nc_ht=scontent.fsgn2-4.fna&oh=383b5fb40e8b55e24be67aa1cfbf77a5&oe=5E377BD2
+authorImage: https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/67191100_1340537959433639_5299123773562159104_n.jpg?_nc_cat=104&_nc_oc=AQl3bqQMsEfRbo0XVuYTkS48M9JvyPn_JX-tlmHOBCTe7-Xg-2WJRgydpRqOTJQ1lzhe9WGGCYtpveevVxbwN6Fs&_nc_ht=scontent.fsgn2-1.fna&oh=488e102fc10b52683a8963d5074237ff&oe=5E3B9325
 twitterHandle: HarryMcGueeze
-website: https://harrisonmcguire.com/
+website: 
 bio: My Super Cool Bio
 ---
 
