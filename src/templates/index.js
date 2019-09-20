@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://khamphadisan.com.vn/wp-content/uploads/2018/08/dao-nhat-tu-son-khamphadisan-3-1280x720.jpg' title="Ra Khơi" tagline="Chuyến đi Của Tôi.." />
+        <Header image='https://khamphadisan.com.vn/wp-content/uploads/2018/08/dao-nhat-tu-son-khamphadisan-3-1280x720.jpg' title="NHA TRANG điểm hẹn" tagline="Chuyến đi Của Tôi.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
