@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /phuong-tien-di-chuyen-1
 title: Di chuyển tại Nha Trang như thế nào?
-image: 'http://divui.com/blog/wp-content/uploads/2018/05/kinh-nghiem-du-lich-nha-trang-1.jpg' 
+image: 'https://longphutourist.vn/images/thongtindulich/taxi/taxi-vang-asia-nha-trang.jpg' 
 tags:
   - Bien
 date: 2019-09-21T13:12:33.962Z
