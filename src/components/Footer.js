@@ -5,17 +5,7 @@ const Footer = () =>
     <footer className="site-footer outer">
         <div className="site-footer-content inner">
             <section className="copyright">
-			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- tstex -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-9869955942583035"
-     data-ad-slot="8211889132"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+			
                 <Link to="/">downsload.info</Link> | NHA TRANG điểm hẹn
             </section>
             <nav>
