@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /vien-hai-duong-hoc
 title: Viện Hải Dương Học
-image: 'http://khanhhoa.tv/wp-content/uploads/2018/05/c.jpg' 
+image: 'https://d3olmgy3mopa83.cloudfront.net/images/place/V1b920qDXvbX2ld34xkRDyGsszfFPW5c.jpeg' 
 tags:
   - Bien
 date: 2019-09-22T13:12:33.962Z
