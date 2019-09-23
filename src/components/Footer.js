@@ -6,7 +6,7 @@ const Footer = () =>
         <div className="site-footer-content inner">
             <section className="copyright">
 			
-                <Link to="/">downsload.info</Link> | NHA TRANG điểm hẹn
+                <Link to="/">tupleutech.com</Link> | NHA TRANG điểm hẹn
             </section>
             <nav>
                 <a className="social-logo" href="https://youtu.be/N4WTi9EHLqA" >
