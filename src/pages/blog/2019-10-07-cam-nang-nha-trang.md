@@ -5,9 +5,9 @@ title: Nên đi du lịch Nha Trang vào thời điểm nào?
 image: 'https://media.metrip.vn/images/davydchuk_photographer_10_7_2017_15_19_55_659.jpg' 
 tags:
   - Bien
-date: 2019-09-20T13:12:33.962Z
+date: 2019-10-07T13:12:33.962Z
 uev: 4.18.8
-description:
+description: Nằm ở khu vực nam Miền Trung, Nha Trang cũng có những đặc thù về điều kiện tự nhiên của miền Duyên Hải Nam Trung Bộ.
 ---
 
 Nằm ở khu vực nam Miền Trung, Nha Trang cũng có những đặc thù về điều kiện tự nhiên của miền Duyên Hải Nam Trung Bộ. Khí hậu Nha Trang tương đối ôn hòa, không khắc nghiệt như ở miền Bắc và cũng không thất thường như miền Nam. Mùa đông ở Nha Trang ít lạnh, mùa hè thường kéo dài nhưng nắng nóng không quá gay gắt.
