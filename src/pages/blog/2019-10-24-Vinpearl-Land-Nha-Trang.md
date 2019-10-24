@@ -5,9 +5,9 @@ title: Vinpearl Land Nha Trang
 image: 'https://www.vntrip.vn/cam-nang/wp-content/uploads/2017/01/Vinpearl-Nha-Trang-e1502893616621.png' 
 tags:
   - Bien
-date: 2019-09-21T13:12:33.962Z
+date: 2019-10-24T13:12:33.962Z
 uev: 4.18.8
-description: 
+description: Sở hữu cáp treo vượt biển dài nhất thế giới với hàm trăm trò chơi cảm giác mạnh thách thức sự mạo hiểm và sự phiêu lưu của du khách như đu quay nhào lộn xoay 360 độ liên tục, đu quay dây văng với những vòng quay lộng gió.
 ---
 
 Tọa lạc trên bờ của một trong 29 vịnh biển đẹp nhất thế giới, Vinpearl Land Nha Trang là thiên đường vui chơi giải trí đẳng cấp quốc tế. Cùng với đó, nơi đây được Hiệp hội du lịch Việt Nam trao tặng là khu vui chơi giải trí hấp dẫn nhất Việt Nam.
