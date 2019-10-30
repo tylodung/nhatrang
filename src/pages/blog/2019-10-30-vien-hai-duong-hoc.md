@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 path: /vien-hai-duong-hoc
-title: Viện Hải Dương Học
+title: Viện Hải Dương Học có gì hay?
 image: 'https://d3olmgy3mopa83.cloudfront.net/images/place/V1b920qDXvbX2ld34xkRDyGsszfFPW5c.jpeg' 
 tags:
   - Bien
-date: 2019-09-22T13:12:33.962Z
+date: 2019-10-30T13:12:33.962Z
 uev: 4.18.8
 description: 
 ---
