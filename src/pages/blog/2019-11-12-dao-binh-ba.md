@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 path: /dao-binh-ba
-title: Đảo Bình Ba
+title: Đảo Bình Ba đẹp ngất ngây
 image: 'https://tour.dulichvietnam.com.vn/uploads/tour/1553053042_nha-trang-11.jpg' 
 tags:
-  - Bien
-date: 2019-09-25T13:12:33.962Z
+  - Dao
+date: 2019-11-12T13:12:33.962Z
 uev: 4.18.8
-description: 
+description: Đảo Bình Ba có tên gọi khác là “Đảo Tôm Hùm” mang vẻ đẹp hoang sơ và trữ tình.
 ---
 
 Đảo Bình Ba có tên gọi khác là “Đảo Tôm Hùm” mang vẻ đẹp hoang sơ và trữ tình. Cùng bãi biển trong xanh cát trắng, đây là đia điểm du lịch lý tưởng hấp dẫn khách du lich ghé thăm. Hòn đảo chưa khai thác du lịch nhiều nên còn giữ được khá nhiều cảnh đẹp tự nhiên. Nếu có dịp đến đây, bạn đừng quên căng lều cắm trai tại bãi chướng để ngắm vẻ đep mộng mơ của hoàng hồn và bình minh nơi đây nhé.
