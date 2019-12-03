@@ -5,9 +5,10 @@ title: Let It Be Cafe đẹp mê hồn tại Nha Trang
 image: 'https://cdn1.nhatrangtoday.vn/images/photos/cafe-let-it-be-nha-trang-3.jpg' 
 tags:
   - Dia diem
-date: 2019-09-28T13:12:33.962Z
+date: 2019-12-03T13:12:33.962Z
 uev: 4.18.8
-description: 
+description: Nếu bạn yêu thích các bản Ballad nhẹ nhàng, hãy đến Let it be để vừa nhâm nhi tách cafe vừa đắm chìm trong giai điệu nhạc ưa thích của mình.
+
 ---
 
 Địa chỉ: 118 Bạch Đằng, Nha Trang
