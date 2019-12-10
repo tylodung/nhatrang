@@ -5,9 +5,9 @@ title: Vịnh Ninh Vân Nha Trang rất đẹp
 image: 'https://cdn1.nhatrangtoday.vn/images/photos/vinh-ninh-van-top.jpg?width=821&format=webp&quality=80' 
 tags:
   - Dia diem
-date: 2019-10-03T13:12:33.962Z
+date: 2019-12-10T13:12:33.962Z
 uev: 4.18.8
-description: 
+description: Nếu bạn muốn rời xa thành phố nhộn nhịp, thả mình thư giãn giữa biển xanh thì hãy đến vịnh Ninh Vân, thiên đường nghỉ dưỡng chỉ cách Nha Trang 60km.
 ---
 
 Nếu bạn muốn rời xa thành phố nhộn nhịp, thả mình thư giãn giữa biển xanh thì hãy đến vịnh Ninh Vân, thiên đường nghỉ dưỡng chỉ cách Nha Trang 60km.

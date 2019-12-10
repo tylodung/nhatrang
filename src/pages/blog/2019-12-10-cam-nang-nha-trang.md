@@ -4,8 +4,8 @@ path: /cam-nang-nha-trang
 title: Nên đi du lịch Nha Trang vào thời điểm nào?
 image: 'https://media.metrip.vn/images/davydchuk_photographer_10_7_2017_15_19_55_659.jpg' 
 tags:
-  - Bien
-date: 2019-10-07T13:12:33.962Z
+  - Kinh nghiem
+date: 2019-12-10T13:12:33.962Z
 uev: 4.18.8
 description: Nằm ở khu vực nam Miền Trung, Nha Trang cũng có những đặc thù về điều kiện tự nhiên của miền Duyên Hải Nam Trung Bộ.
 ---
