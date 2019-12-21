@@ -5,7 +5,7 @@ title: Đến Nha Trang bằng phương tiện gì?
 image: 'https://dulichlive.com/nha-trang/wp-content/uploads/sites/3/2019/06/Kinh-nghiem-du-lich-Nha-Trang-tu-tuc-gia-re.jpg' 
 tags:
   - Bien
-date: 2019-10-07T13:12:33.962Z
+date: 2019-12-21T13:12:33.962Z
 uev: 4.18.8
 description: Để đến Nha Trang bạn có thể di chuyển theo nhiều cách khác nhau, tùy vào túi tiền, quỹ thời gian cũng như sở thích của mỗi người.
 ---
