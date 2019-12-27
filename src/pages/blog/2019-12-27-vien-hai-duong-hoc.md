@@ -4,8 +4,8 @@ path: /vien-hai-duong-hoc
 title: Viện Hải Dương Học có gì hay?
 image: 'https://www.vntrip.vn/cam-nang/wp-content/uploads/2017/08/khong-gian-xanh-mau-nuoc-bien.jpg' 
 tags:
-  - Bien
-date: 2019-10-30T13:12:33.962Z
+  - Dia diem
+date: 2019-12-27T13:12:33.962Z
 uev: 4.18.8
 description: Viện là nơi lưu giữ nhiều mẫu vật nhất Việt Nam. Được thành lập từ năm 1923 do người Pháp xây dựng, đến năm 1952 thì được giao lại cho Viêt Nam quản lý.
 ---
