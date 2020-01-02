@@ -5,7 +5,7 @@ title: Đảo Bình Hưng khung cảnh thơ mộng
 image: 'https://kenhdulichnhatrang.com/Media/Upload/dao-binh-hung-nha-trang-1.jpg' 
 tags:
   - Dao
-date: 2019-11-12T13:12:33.962Z
+date: 2020-01-02T13:12:33.962Z
 uev: 4.18.8
 description: Đảo Bình Hưng hay còn được người dân nơi đây gọi với cái tên trìu mến là Hòn Tý, Hòn Chút.
 ---

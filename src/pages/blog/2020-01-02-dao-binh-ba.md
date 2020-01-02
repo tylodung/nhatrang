@@ -5,7 +5,7 @@ title: Đảo Bình Ba đẹp ngất ngây
 image: 'https://tour.dulichvietnam.com.vn/uploads/tour/1553053042_nha-trang-11.jpg' 
 tags:
   - Dao
-date: 2019-11-12T13:12:33.962Z
+date: 2020-01-02T13:12:33.962Z
 uev: 4.18.8
 description: Đảo Bình Ba có tên gọi khác là “Đảo Tôm Hùm” mang vẻ đẹp hoang sơ và trữ tình.
 ---
