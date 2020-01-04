@@ -5,7 +5,7 @@ title: Chùa ốc Từ Vân là ngôi chùa nổi tiếng ở Nha Trang
 image: 'https://vcdn-dulich.vnecdn.net/2013/10/23/vtv4-1382514257_1200x0.jpg' 
 tags:
   - Chua
-date: 2019-11-20T13:12:33.962Z
+date: 2020-01-04T13:12:33.962Z
 uev: 4.18.8
 description: Đến du lịch Nha Trang nếu có cơ hội nhất định bạn phải ghé thăm ngôi chùa nổi tiếng này. 
 ---

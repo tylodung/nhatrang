@@ -5,12 +5,12 @@ title: Chùa Long Sơn là 1 trong những ngôi chùa lớn nhất ở Nha Tran
 image: 'https://www.vntrip.vn/cam-nang/wp-content/uploads/2016/02/Chua-Long-Son-1-e1503591855590.png' 
 tags:
   - Chua
-date: 2019-11-20T13:12:33.962Z
+date: 2020-01-04T13:12:33.962Z
 uev: 4.18.8
 description: Đây là 1 trong những ngôi chùa lớn nhất ở Nha Trang, và cũng là ngôi chùa có tuổi đời hơn 100 năm. 
 ---
 
-**Địa chỉ:** số 22 đường 23 tháng 10, thành phố Nha Trang, tỉnh Khánh Hòa
+**Địa chỉ:** số 22 đường 23 tháng 10, thành phố Nha Trang, tỉnh Khánh Hòa.
 
 Đây là 1 trong những ngôi chùa lớn nhất ở Nha Trang, và cũng là ngôi chùa có tuổi đời hơn 100 năm. Chùa còn có tên gọi khác là “Chùa Phật Trắng” nổi tiếng với pho tượng: Kim Ngân Phật Tổ, đã được sách kỷ lục Guinness Việt Nam công nhận là pho tượng lớn nhất Việt Nam tính đến thời điểm hiện tại. 
 
