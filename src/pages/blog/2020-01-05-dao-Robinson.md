@@ -5,7 +5,7 @@ title: Đảo Robinson rất nguyên sơ, mộc mạc
 image: 'https://www.vntrip.vn/cam-nang/wp-content/uploads/2017/12/dao-robinson-nha-trang-3.jpg' 
 tags:
   - Dao
-date: 2019-11-20T13:12:33.962Z
+date: 2020-01-05T13:12:33.962Z
 uev: 4.18.8
 description: Khi đến thăm hòn đảo này, bạn sẽ như lạc vào một thế giới khác nơi mọi thứ còn rất nguyên sơ, mộc mạc.
 ---
