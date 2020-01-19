@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://i0.wp.com/ae01.alicdn.com/kf/HTB1Ac0tbVuWBuNjSszbq6AS7FXaX/Nh%C3%A0-trang-tr%C3%AD-anime-Full-Metal-Alchemist-Brotherhood-L%E1%BB%A5a-tay-V%E1%BA%A3i-Poster-In-DM101.jpg' title="NHA TRANG điểm hẹn" tagline="Chuyến đi Của Tôi.." />
+        <Header image='https://i0.wp.com/ae01.alicdn.com/kf/HTB1Ac0tbVuWBuNjSszbq6AS7FXaX/Nh%C3%A0-trang-tr%C3%AD-anime-Full-Metal-Alchemist-Brotherhood-L%E1%BB%A5a-tay-V%E1%BA%A3i-Poster-In-DM101.jpg' title="NHA TRANG hẹn hò" tagline="Chuyến đi Của Tôi.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
